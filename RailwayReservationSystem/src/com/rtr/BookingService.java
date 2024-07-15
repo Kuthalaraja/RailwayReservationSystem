@@ -10,7 +10,7 @@ public class BookingService {
 	public Passanger getData() {
 		Passanger p = new Passanger();
 		Scanner sc = new Scanner(System.in);
-			System.out.println("Name  :");
+			System.out.println("Name :");
 			String name = sc.next();
 			System.out.println("Gender :");
 			String gender = sc.next();
