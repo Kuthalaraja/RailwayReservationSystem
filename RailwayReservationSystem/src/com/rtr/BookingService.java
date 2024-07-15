@@ -16,7 +16,7 @@ public class BookingService {
 			String gender = sc.next();
 			System.out.println("Age :");
 			int age = sc.nextInt();
-			System.out.println("Berth preference :");
+			System.out.println("Berth preference  :");
 			String berthpref = sc.next();
 			p.setId(p.getId());
 			p.setName(name);
